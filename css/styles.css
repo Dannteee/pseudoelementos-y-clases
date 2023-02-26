@@ -1,10 +1,11 @@
 *{box-sizing: border-box;}
 
 body{
-    background-image: url(/images/tumblr_5378b15545e9f678c276c71d65c2332d_62af995e_1280.gif);
+   margin: 0;
+   padding: 0;
 }
 h1{
-    color: white;
+    color: rgb(0, 0, 0);
     display: flexbox;
     text-align: center;
 }
